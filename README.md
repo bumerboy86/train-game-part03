@@ -11,11 +11,11 @@
 
 > Склонируйте проект
 
-- git clone [https://github.com/bumerboy86/train-game-part02.git]
+- git clone [https://github.com/bumerboy86/train-game-part03.git]
 
 > Войдите в дирректорию с проектом
 
-- cd train-game-part02
+- cd train-game-part03
 
 > Установите зависимости
 
@@ -27,7 +27,7 @@
 
 ## Информация
 
-- Результат второго урока по созданию игры на подобии змейки
+- Результат третьего урока по созданию игры на подобии змейки
 
 ## Лицензия
 
